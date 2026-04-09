@@ -6,6 +6,7 @@ Mitsuaki KIDA
 ## 🛠 作っているもの
 
 ### ネットワーク / インフラ系ツール
+- [Cloudflare Workers クリック1つでデプロイできる Proxy API](https://github.com/kidatti/proxy-cloudflare-workers)
 - ネットワーク診断ツール（CLI / Web UI）
 - ローカルネットワークスキャナ
 - HTTPリクエストの可視化・ログ取得ツール
@@ -16,7 +17,6 @@ Mitsuaki KIDA
 - AWS ロール切り替え支援ツール
 
 ### バックエンド / ユーティリティ
-- Cloudflare Workers を使ったプロキシAPI
 - HTTPリクエストのバッチ実行ツール
 - WebベースのDB管理ツール
 
