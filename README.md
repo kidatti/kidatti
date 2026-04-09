@@ -48,7 +48,7 @@ Mitsuaki KIDA
   `.aws/config` ベースで AWS ロール切り替えを補助する拡張
 
 ### Web / Cloud
-- **proxy-cloudflare-workers**  
+- [**proxy-cloudflare-workers**](https://github.com/kidatti/proxy-cloudflare-workers)  
   APIキー対応のシンプルなプロキシAPI（Cloudflare Workers）
 
 - **godbadmin**  
